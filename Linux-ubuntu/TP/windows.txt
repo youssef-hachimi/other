@@ -1,0 +1,11 @@
+cat  (view content)
+more (open file) 
+q (exit)
+use space "_"  advance
+use enter <-|
+cat os.txt -head 4 (first lines)
+cat os.txt -Tail 4 (last lines )
+start notepad++ .\windows.txt
+
+Get-help
+Get-Alias
